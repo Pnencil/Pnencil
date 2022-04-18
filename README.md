@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Pnencil
 #### I love coding HTML and CSS
-![Banner](https://c.tenor.com/8SSF2oRr1kYAAAAd/mitsuha-comet.gif)
+<img src="https://c.tenor.com/8SSF2oRr1kYAAAAd/mitsuha-comet.gif">
 
 I am actually still learning many things about HTML and coding in general.
 
