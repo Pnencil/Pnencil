@@ -1,22 +1,25 @@
-<h1 align="center">Hi 👋, I'm Himangsu or you can call me Pnencil</h1>
-<h3 align="center">A passionate web developer that has still a lot to learn!</h3>
+### Hi there 👋, my name is Pnencil
+#### I love coding HTML and CSS
+![I love coding HTML and CSS](https://c.tenor.com/8SSF2oRr1kYAAAAd/mitsuha-comet.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himangsu234&label=Profile%20views&color=0e75b6&style=flat" alt="himangsu234" /> </p>
+I am actually still learning many things about HTML and coding in general.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=himangsu234" alt="himangsu234" /></a> </p>
+Skills: HTML / CSS / PYTHON
 
-- 💬 Ask me about **HTML, CSS and Python**
+- 🌱 I’m currently learning HTML and CSS 
+- 💬 Ask me about HTML, CSS and Python 
+- 📫 How to reach me: Discord - pnencil#5084 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: I love anime and coding 
 
-- 📫 How to reach me **himangsu234@gmail.com**
 
-- ⚡ Fun fact **I love coding and anime**
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/himangsu234)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/HimangsuPlayz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](pnencil#5084)  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/3QZtTs9GFD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="3QZtTs9GFD" height="30" width="40" /></a>
-</p>
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himangsu234)](https://github.com/anuraghazra/github-readme-stats)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=himangsu234&show_icons=true&locale=en&layout=compact" alt="himangsu234" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=himangsu234&show_icons=true)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=himangsu234)  
+
