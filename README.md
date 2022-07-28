@@ -1,5 +1,3 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/912333667865624717/965584343965786152/ezgif-1-5df72e8612.gif)](https://github.com/himangsu234)
-
 <h1 align="center">Hi 👋, I'm Himangsu or you can call me Pnencil</h1>
 <h3 align="center">A passionate web developer that has still a lot to learn!</h3>
 
