@@ -20,3 +20,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Pnencil&show_icons=true&locale=en&layout=compact" alt="Pnencil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pnencil&show_icons=true&locale=en" alt="Pnencil" /></p>
+
+[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/M4M2G0JIX)
