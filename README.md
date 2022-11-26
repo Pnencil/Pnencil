@@ -22,3 +22,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pnencil&show_icons=true&locale=en" alt="Pnencil" /></p>
 
 [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/M4M2G0JIX)
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=5bda6f71696e&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
